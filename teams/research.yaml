@@ -1,0 +1,9 @@
+name: "Research and Development"
+description: "Research and Development (R&D) is a critical function within our organization that focuses on innovating and improving our products and services. The R&D team is responsible for conducting research, developing new technologies, and enhancing existing offerings to meet the evolving needs of our customers and stay competitive in the market."
+teams_channel: "None"
+SAST: True
+secret_scanning: True
+SCA: True
+threat_models: 1
+IaC: N/A
+DAST: True

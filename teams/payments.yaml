@@ -1,0 +1,9 @@
+name: "Payments"
+description: "Payments team is responsible for the development and maintenance of the payment processing system, ensuring secure and efficient transactions for our customers."
+teams_channel: "None"
+threat_models: 2
+SAST: True
+secret_scanning: True
+SCA: True
+IaC: N/A
+DAST: N/A

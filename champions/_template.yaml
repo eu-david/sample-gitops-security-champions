@@ -1,0 +1,18 @@
+# Security Champion Profile Template
+# ----------------------------------
+# To onboard a new champion, copy this file to:
+#   champions/<github-username>.yaml
+#
+# Then fill in the fields below and open a pull request.
+# The README.md will be auto-generated from all champion files.
+
+# Required fields
+name: "First Last" # Full name of the champion
+team: "Team Name" # Must match a registered team in teams/
+status: "active" # active | alumni
+github: "github-username" # GitHub username (must be unique)
+joined: "YYYY-MM-DD" # Date onboarded to the program
+email: "" # Contact email
+
+# Optional fields
+points: 0 # Total points earned by the champion

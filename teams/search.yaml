@@ -1,0 +1,8 @@
+name: "Search & Recommendations"
+description: "Search engine, ranking algorithms, and recommendation systems"
+threat_models: 0
+SAST: True
+secret_scanning: True
+SCA: True
+IaC: True
+DAST: N/A

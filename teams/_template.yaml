@@ -1,0 +1,24 @@
+# Team Registration Template
+# --------------------------
+# To register a new team, copy this file to:
+#   teams/<team-slug>.yaml
+#
+# The team slug should be a lowercase, hyphenated version of the team name
+#
+# Then fill in the fields below and open a pull request.
+# Champions referencing this team (via the "team" field) will be
+# matched against the "name" field here.
+
+# Required fields
+name: "Team Name" # Official team name (must match champion files)
+threat_models: 0 # Number of threat models maintained by the team
+SAST: N/A # True | False | N/A Static Application Security Testing
+secret_scanning: N/A # True | False | N/A Secret scanning
+SCA: N/A # True | False | N/A Software Composition Analysis
+DAST: N/A # True | False | N/A Dynamic Application Security Testing
+IaC: N/A # True | False | N/A Infrastructure as Code scanning
+
+# Optional fields
+description: "" # Brief description of what the team does
+teams_channel: "" # Teams channel
+lead: "" # Team lead / engineering manager name
